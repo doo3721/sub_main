@@ -1,0 +1,6 @@
+[submodule "sub_alpha"]
+	path = sub_alpha
+	url = https://github.com/doo3721/sub_alpha.git
+[submodule "sub_beta"]
+	path = sub_beta
+	url = https://github.com/doo3721/sub_beta.git
